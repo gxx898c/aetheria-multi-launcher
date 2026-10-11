@@ -1,0 +1,9 @@
+{
+  "name": "aetheria-multi-launcher",
+  "version": "1.0.0",
+  "description": "เปิดหลายจอของ Aetheria Online พร้อมกัน แยก user-data-dir ต่อจอ คุมจาก web console",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
